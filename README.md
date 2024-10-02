@@ -35,7 +35,7 @@ The following steps were implemented to clean and prepare the data:
   
 ## Files in the Repository
 - **Hotel_Bookings.csv**: The original raw dataset.
-- **Cleaned_DataBookstoreSales.csv**: The cleaned and processed dataset, ready for analysis.
+- **Cleaned_Hotel_Booking.csv**: The cleaned and processed dataset, ready for analysis.
 - **HotelBookingCode.py**: Python script used to perform data cleaning operations.
 
 
